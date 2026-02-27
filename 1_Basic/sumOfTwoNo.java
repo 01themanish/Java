@@ -7,6 +7,7 @@ public class sumOfTwoNo{
         int x=sc.nextInt();
         int y=sc.nextInt();
         System.out.println("Sum of "+x+" + "+y+" = "+obj.sum(x, y));
+        sc.close();
     }
     public int sum(int x, int y){
         return x+y;
