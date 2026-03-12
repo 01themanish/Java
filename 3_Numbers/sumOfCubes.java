@@ -16,7 +16,5 @@ public class sumOfCubes {
             System.out.println("Sum of cubes of digits of " + n + " = " + result);
             sc.close();
         }
-        
-        
     }
 }
