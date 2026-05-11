@@ -6,7 +6,7 @@ public class TransposeMatrix {
             for(int j=0;j<2;j++){
                 System.out.print(a[j][i] + " ");
             }
-            System.out.println();
+            System.out.println("");
         }
     }
 }
